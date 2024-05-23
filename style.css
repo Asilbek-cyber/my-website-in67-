@@ -1,0 +1,615 @@
+*{
+    margin:0px;
+    padding: 0px;
+    
+}
+.items {
+    display: inline-block;
+   
+  
+}
+ nav .bir a{
+     color: red;
+     text-decoration:line-through;
+
+}
+
+nav .iki a:hover{
+    color: red;
+    text-decoration:line-through;
+    transition-duration: 1s;
+}
+nav .uch a:hover{
+    color: red;
+    text-decoration:line-through;
+    transition-duration: 1s; 
+} 
+nav .tort a:hover{
+    color: red;
+    text-decoration:line-through;
+    transition-duration: 1s; 
+}
+nav .besh a:hover{
+    color: red;
+    text-decoration:line-through;
+    transition-duration: 1s; 
+}
+nav .olti a:hover{
+    color: red;
+    text-decoration:line-through;
+    transition-duration: 1s; 
+}
+
+.items a{
+    text-decoration: none;
+    color: rgb(26,29,41);
+    margin-left: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+ nav img{
+    position: relative;
+    left: 250px;
+    top: 30px;
+    width: 230px;
+}
+nav ul{
+    margin-left: 900px;
+    margin-top: -30px;
+}
+nav .fa-solid {
+    margin-left: 1800px;
+    position: relative;
+    top: -37px;
+    width: 50px;
+}
+nav{
+background-image:url(home-banner\ \(1\).jpg);
+background-repeat: no-repeat;
+height: 1000px;
+ background-size: 2500px;
+}
+nav .photo p{
+border:  none;
+width: 400px;
+font-size: 58px;
+font-weight: 700;
+margin-left: 400px;
+margin-top: 500px;
+line-height: 68px;
+}
+nav .photo .p{
+    color: red;
+
+}
+.s p{
+    margin-left: 400px;
+    font-family: sans-serif;
+    font-size:20px;
+    margin-top: 30px;
+}
+.s a{
+    border: 2px solid rgb(26,29,36);
+    background-color:  rgb(26,29,36);
+    margin-left: 400px;
+    color: white;
+    border-radius: 10px;
+    transition-duration: 0.7s;
+    padding: 25px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size:20px;
+    position: relative;
+    top: 50px;
+}
+.s a:hover{
+    background-color: #fff;
+    color: orangered;
+    border:2px solid white;
+}
+nav .ll{
+    position: fixed;
+    background-color: #fff;
+    padding-right: 610px;
+    background-size: 100px;
+    padding-bottom: 50px;
+    z-index: 3;
+}
+.heading3{
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+   
+
+    
+}
+.yozuv2{
+    color: red;
+    font-style: italic;
+}
+.rasm1{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.yozuv3{
+    color: gray;
+}
+.pc{
+    margin-top: 500px;
+}
+.mono{
+    margin-top: 50px;
+}
+.img{
+    height: 500px;
+    margin-left: 900px;
+}
+.img img{
+    width: 1000px;
+    height: 1500px;
+margin-top: 100px;
+
+}
+.img img:hover{
+    filter: opacity(30%);
+    transition-duration: 0.7s;
+    content: "CONSTRUCTION Desert Work, Dubai";
+}
+.img1 img{
+    width: 500px;
+    height: 500px;
+    margin-top: -397px;
+    margin-left: 350px;
+}
+.img1 img:hover{
+    filter: opacity(30%);
+    transition-duration: 0.7s;
+    content: "CONSTRUCTION Desert Work, Dubai";
+}
+.img2 img{
+width: 500px;
+height: 635px;
+margin-top: 50px;
+margin-left: 350px;
+}
+.img2 img:hover{
+    filter: opacity(30%);
+    transition-duration: 0.7s;
+    content: "CONSTRUCTION Desert Work, Dubai";
+}
+.img3 img{
+    width: 500px;
+    height: 900px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.img3 img:hover{
+    filter: opacity(30%);
+    transition-duration: 0.7s;
+    content: "CONSTRUCTION Desert Work, Dubai";
+}
+.img4 img{
+    width: 1000px;
+    height: 550px;
+    margin-left: 900px;
+    position: relative;
+    top:-600px;
+}
+.img4 img:hover{
+    filter: opacity(30%);
+    transition-duration: 0.7s;
+    
+}
+.img4 img:hover::after{
+    content: 'CONSTRUCTION Desert Work, Dubai';
+}
+.yozuv1 {
+    margin-top: 100px;
+}
+.rasm1 .yozuv3{
+    font-size: 25px;
+}
+.ll2 {
+    margin-left: 200px;
+    position: relative;
+    top:70px;
+ 
+}
+
+.ll2 ul .bir a{
+   color: red;
+   text-decoration: line-through;
+}
+.ll2 ul .iki a:hover{
+    color: red;
+    text-decoration: line-through;
+    transition-duration: 0.7s;
+ }
+ .ll2 ul .uch a:hover{
+    color: red;
+    text-decoration: line-through;
+    transition-duration: 0.7s;
+ }
+ .ll2 ul .tort a:hover{
+    color: red;
+    text-decoration: line-through;
+    transition-duration: 0.7s;
+ }
+ .ll2 ul .besh a:hover{
+    color: red;
+    text-decoration: line-through;
+    transition-duration: 0.7s;
+ }
+ .heading4{
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+    margin-top: -350px;
+ }
+ .h{
+    text-align: center;
+    font-size: 20px ;
+    font-family: sans-serif;
+    color: gray;
+ }
+ .content-box{
+    width: 100%;
+    height:300px ;
+    padding: 60px;
+ }
+.content-box .row{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px, 1fr));
+    grid-gap: 30px;
+}
+.content-box .row .service{
+    background:rgb(247,247,247);
+    padding: 20px 10px;
+    text-align:center;
+    transition: transform .5s;
+    height: 300px;
+    width: 300px;
+}
+.content-box .row .service:hover{
+    cursor: pointer;
+    box-shadow: 0px 10px 30px 10px rgba(131, 131, 131, 0.12);
+}
+.content-box .row .service:hover img{
+       color: red;
+       cursor: pointer;
+}
+.type{
+    color: gray;
+    font-size: 20px;
+}
+.type2{
+    font-size: 30px;
+}
+.yozuv5{
+    color: red;
+    font-style: italic;
+}
+.price-row{
+    width: 90%;
+    max-width: 1100px;
+     margin: auto;
+     display: grid;
+     grid-template-columns: repeat(auto-fit,minmax(250px, 1fr));
+    gap: 25px; 
+}
+.price-col{
+     background-color:rgb(239, 238, 238);
+     padding: 10% 15%;
+     text-align: center;
+     color: black;
+      
+     margin-top: 100px;
+     border: 30px solid white;
+}
+.price-col p{
+    font-size: 22px;
+}
+.price-col h3{
+    font-size: 44px;
+    margin: 20px 0 40px;
+    font-weight: 500;
+}
+.price-col ul{
+    text-align: center;
+    margin: 20px 0;
+    color: black;
+list-style: none;    
+}
+.price-col ul li{
+    margin: 15px 0;
+}
+.sotqin{
+    color: white;
+    border: 2px solid black;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-top: 15px;
+    border-radius:5px ;
+    background-color:  black;
+}
+.sotqin:hover{
+    cursor: pointer;
+    background-color: red;
+}
+.price-col:hover{
+    cursor: pointer;
+    box-shadow: 10px 2px 15px gray;
+}
+.big{
+    border: 2px solid rgb(243, 243, 243);
+    background-color:rgb(243, 243, 243);
+    height: 800px;
+    width: 100%;
+    margin-top: 200px
+}
+.sucha .img1{
+    position: relative;
+      left: 400px;
+      width: 550px;
+}
+.sucha .img2{
+    position: relative;
+    width: 400px;
+    z-index:  2;
+    top: 100px;
+    margin-left: 200px;
+}
+.sucha{
+    margin-top: 100px;
+}
+.sucha h1{
+    border: 2px solid white;
+    width: 500px;
+    font-size: 60px;
+    margin-left: 1300px;
+    margin-top: -600px;
+}
+.sucha p{
+    border: 2px solid white;
+    width: 695px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: gray;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-left: 1300px;
+}
+.sucha button{
+    color: white;
+    background-color: red;
+    border: 2px solid red;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    margin-top: 50px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    margin-left: 1300px;
+    font-size: 15px;
+    font-family: sans-serif;
+    transition-duration: 0.5s;
+}
+.sucha button:hover{
+    cursor: pointer;
+    background-color: black;
+    border: 2px solid black;
+}
+.pucha{
+    margin-top: 200px;
+}
+.pork{
+    background-color:rgb(243, 243, 243);
+    height: 850px;
+    width: 100%;
+    margin-top: 200px
+}
+.pucha .img3{
+    margin-left: 400px;
+    width: 400px;
+    height: 400px;
+}
+.hp{
+    width: 900px;
+    background-color: #fff;
+    height: 100px;
+    display: inline-flex;
+    align-items: center;
+    padding: 59px 56.51px 78px 50px;
+    margin-left: 750px;
+    top: -355px;
+    z-index: 3;
+    position: relative;
+}
+.hp p{
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 30px;
+    font-style:oblique;
+    color: gray;
+
+}
+.pucha h2{
+    margin-left: 850px;
+    position: relative;
+    top: -370px;
+    font-size: 30px;
+}
+.pucha .lorem{
+    margin-left: 1100px;
+    position: relative;
+    top: -398px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: gray;
+}
+.trio{
+    position: relative;
+    top: 100px;
+}
+.trio2{
+    position: relative;
+    top: 100px;
+    color: gray;
+    font-family: sans-serif;
+}
+.trio3{
+    position:relative;
+    top: 100px;
+    font-family: sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.budun{
+    padding: 200px;
+    float: left;
+    position: relative;
+}
+
+
+.dutor{
+    color: gray;
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 20px;
+    text-align: center;
+}
+.dutor2{
+    color: gray;
+    font-size: 20px;
+    font-family: sans-serif;
+    position: relative;
+    left: 5px;
+}
+.krosh{
+    color: black;
+    font-style: italic;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.fifa{
+    position:relative;
+    top: -30px;
+}
+
+.single-blog {
+  transition: all 300ms linear 0s;
+  float: left;
+  margin-top: 200px;
+  margin-left: 100px;
+}
+  .single-blog .thumb {
+    overflow: hidden; }
+    .single-blog .thumb img {
+      width: 550px;
+      transition: all 300ms linear 0s; }
+  .single-blog .short_details {
+    background: #f7f7f7;
+    padding: 30px 30px;
+    transition: all 300ms linear 0s;
+    
+}
+    .single-blog .short_details a {
+      color: #1a1d24; }
+      .single-blog .short_details a:hover {
+        color: #f81c1c; }
+  .single-blog .meta-top {
+    margin-bottom: 15px; }
+    .single-blog .meta-top a {
+      display: inline-block;
+      margin-right: 27px;
+      color: #777;
+      position: relative;
+      transition: all 300ms linear 0s; }
+      .single-blog .meta-top a i {
+        margin-right: 10px;
+        font-size: 11px; }
+      .single-blog .meta-top a:hover {
+        color: #f81c1c; }
+  .single-blog h4 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    line-height: 30px;
+    transition: all 300ms linear 0s; 
+    text-decoration: none;
+}
+  .single-blog:hover {
+    box-shadow: 0px 10px 36px 4px rgba(131, 131, 131, 0.12); }
+    .single-blog:hover .short_details {
+      background: #ffffff; }
+    .single-blog:hover img {
+      transform: scale(1.1); }
+  .single-blog .read-more {
+    font-size: 13px;
+    color: #1a1d24;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 15px;
+}
+.meta-top a{
+    text-decoration: none;
+}
+.meta-top p{
+    font-size: 20px;
+}
+.true{
+    background-color: #1a1d24;
+    height: 400px;
+    width: 2260px;
+    margin-top: 930px;
+} 
+.footer{
+    width: 100%;
+    padding: 100px ;
+    display:flex ;
+}
+.form-control{
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+}
+.col-1{
+    padding: 60px 30px;
+}
+.trop{
+    font-size: 20px;
+    color: gray;
+}
+.para{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-left: 503px;
+    margin-top: -51px;
+}
+.fa-brands{
+    font-size: 30px;
+    transition-duration: 0.5s;
+    margin-top: 30px;
+}
+.fa-brands:hover{
+    color: red;
+    cursor: pointer;
+}
+.trop1{
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+
+    
+
+
+
+
+
+
